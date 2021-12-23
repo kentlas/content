@@ -1,5 +1,5 @@
 ---
-title: 200 OK
+title: 200 
 slug: Web/HTTP/Status/200
 tags:
   - HTTP
@@ -9,7 +9,7 @@ browser-compat: http.status.200
 ---
 {{HTTPSidebar}}
 
-The HTTP **`200 OK`** success status response code indicates that the request has succeeded. A 200 response is cacheable by default.
+The HTTP **`200`** success status response code indicates that the request has succeeded. A 200 response is cacheable by default.
 
 The meaning of a success depends on the HTTP request method:
 
@@ -23,7 +23,7 @@ The successful result of a {{HTTPMethod("PUT")}} or a {{HTTPMethod("DELETE")}} i
 ## Status
 
 ```
-200 OK
+200 
 ```
 
 ## Specifications
